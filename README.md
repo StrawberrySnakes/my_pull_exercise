@@ -1,6 +1,6 @@
 # my_pull_exercise
 IGME 201 week 2 exercise 
-This is the README file for the "my_pull_exercise"
+This is the README file for the "my_pull_exercise", which is my favorite repo ever!
 
 This project is super cool
 for my class IGME 201
